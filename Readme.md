@@ -28,19 +28,32 @@ Bootstrap 5.3
 VS Code + Live Server
 
 📸 Screenshots
-Hero Section
+
+### IDE Preview
 
 ![Vs-code IDE Screenshot](./screenshots/Screenshot 2025-11-23 100648.png)
+
+### Hero Preview
+
 ![Hero Screenshot](./screenshots/Screenshot 2025-11-23 100736.png)
+
+### List Preview
+
 ![List Screenshot](./screenshots/Screenshot 2025-11-23 100752.png)
+
+### Carousel Preview
+
 ![Carousel Screenshot](./screenshots/Screenshot 2025-11-23 100826.png)
+
+### Footer Preview
+
 ![Footer Screenshot](./screenshots/Screenshot 2025-11-23 100846.png)
 
 ▶️ How to Run
 
 Clone the repo:
 
-git clone <your-repo-url>
+git clone https://github.com/blackabdoul/bootstrap-project.git
 
 Open the project folder
 
