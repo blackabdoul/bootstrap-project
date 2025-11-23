@@ -31,23 +31,23 @@ VS Code + Live Server
 
 ### IDE Preview
 
-![Vs-code IDE Screenshot](./screenshots/Screenshot 2025-11-23 100648.png)
+![goal-image](./screenshots/Screenshot 2025-11-23 100648.png)
 
 ### Hero Preview
 
-![Hero Screenshot](./screenshots/Screenshot 2025-11-23 100736.png)
+![goal-image](./screenshots/Screenshot 2025-11-23 100736.png)
 
 ### List Preview
 
-![List Screenshot](./screenshots/Screenshot 2025-11-23 100752.png)
+![goal-image](./screenshots/Screenshot 2025-11-23 100752.png)
 
 ### Carousel Preview
 
-![Carousel Screenshot](./screenshots/Screenshot 2025-11-23 100826.png)
+![goal-image](./screenshots/Screenshot 2025-11-23 100826.png)
 
 ### Footer Preview
 
-![Footer Screenshot](./screenshots/Screenshot 2025-11-23 100846.png)
+![goal-image](./screenshots/Screenshot 2025-11-23 100846.png)
 
 ▶️ How to Run
 
